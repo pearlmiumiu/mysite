@@ -1,7 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 title: this is sparta
 show_downloads: false
 
-baseurl: "/mysite"
+baseurl: "/"
 url: "http://lipinglin.com"
 
