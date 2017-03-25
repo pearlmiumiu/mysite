@@ -1,5 +1,5 @@
-## This is all about me!!!
+## Welcome to my website!
+I am an Data Analyst from New Jersey. I love finding interesting and meaningful patterns from large and complex datasets.
 
-You can use the [editor on GitHub](https://github.com/totolipton/test_site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Others
+I also love to travel, cook, and exercise.
