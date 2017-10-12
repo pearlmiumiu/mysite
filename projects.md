@@ -1,6 +1,6 @@
 ## My Projects
 
-The following are a few of my recent data projects:
+The following are a few of my recent programming projects:
 
 [![](assets/spx500.png)](https://github.com/pearlmiumiu/spx500_data_project)|[![](assets/world.png)](https://github.com/pearlmiumiu/world_economic_data_analysis)
 
