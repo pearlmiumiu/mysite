@@ -1,6 +1,7 @@
 ## Welcome to my website!
-I am an Data Analyst from New Jersey. I love finding interesting and meaningful patterns from large and complex datasets.
+I am a full stack fellow at Grace Hopper. I am fascinated by the logical foundation of programming and feel triumph when I conquer problems. 
+
 
 
 ### Others
-I also love to travel, cook, and exercise.
+I also love to travel, cook, and exercise:)

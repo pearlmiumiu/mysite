@@ -1,8 +1,9 @@
-## Courses taken at school
+## School Accredited Cources
 * Computer Organization and Design
 * Intro to Operating System
 * Data Structure and Advanced Programming
 * Intro to Network and Networking
+* Linear Algebra
 
 
 
@@ -22,4 +23,6 @@
 * [R Programming A-Z™: R For Data Science With Real Exercices](https://www.udemy.com/certificate/UC-SD27V0PQ/)
 * [R Programming: Advanced Analytics in R for Data Science](https://www.udemy.com/certificate/UC-8ZBNUIIJ/)
 * [Learn MongoDB : Leading NoSQL Database from scratch](https://www.udemy.com/certificate/UC-O0ZD6Z29/)
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/certificate/UC-HRC6GYGV/)
+* [iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp](https://www.udemy.com/certificate/UC-CHWBQTC8/)
 
