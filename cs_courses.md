@@ -1,4 +1,4 @@
-## School Accredited Cources
+## School Accredited Courses
 * Computer Organization and Design
 * Intro to Operating System
 * Data Structure and Advanced Programming

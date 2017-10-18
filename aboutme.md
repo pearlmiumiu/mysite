@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-I am a full stack fellow at Grace Hopper. I am fascinated by the logical foundation of programming and feel triumph when I conquer problems. Please refer to my git page for more information. https://github.com/pearlmiumiu/
+I am currently a full stack fellow at Grace Hopper, NYC. I am fascinated by the logical foundation of programming and feel triumph when I conquer problems. Please refer to my git page for more information. https://github.com/pearlmiumiu/
 
 
 
