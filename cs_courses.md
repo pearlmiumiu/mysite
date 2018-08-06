@@ -3,7 +3,8 @@
 * Intro to Operating System
 * Data Structure and Advanced Programming
 * Intro to Network and Networking
-* Linear Algebra
+* Database System and Architecture Design
+
 
 
 
@@ -15,14 +16,3 @@
 * [Discrete Mathematics Generality By Peking University](https://www.coursera.org/account/accomplishments/certificate/SVERGMS2MPXK) 
   
   
-## Courses taken on Mooc
-* [CS 50](https://cs50.harvard.edu)
-* [Introduction to Computer Science](https://classroom.udacity.com/courses/cs101)
-* [Introduction to Database](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)
-* [Learning Python for Data Analysis and Visualization](https://www.udemy.com/certificate/UC-N2V8BH3S/)
-* [R Programming A-Z™: R For Data Science With Real Exercices](https://www.udemy.com/certificate/UC-SD27V0PQ/)
-* [R Programming: Advanced Analytics in R for Data Science](https://www.udemy.com/certificate/UC-8ZBNUIIJ/)
-* [Learn MongoDB : Leading NoSQL Database from scratch](https://www.udemy.com/certificate/UC-O0ZD6Z29/)
-* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/certificate/UC-HRC6GYGV/)
-* [iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp](https://www.udemy.com/certificate/UC-CHWBQTC8/)
-
