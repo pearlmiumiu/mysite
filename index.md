@@ -1,4 +1,4 @@
-# Hi, my name is Liping! I am a software engineer. Welcome to my website!
+# Hi, my name is Ping! I am a software engineer. Welcome to my website!
 
 ## My Recent Projects
 
